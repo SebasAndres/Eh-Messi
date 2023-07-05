@@ -1,8 +1,0 @@
-{
-    "Codigos" : {
-        "opendir": "Abre el directorio desde Mis Archivos.",
-        "survey" : "Cuantos usuarios participaron en una encuesta? (minimo).",
-        "cuad": "Resuelve una cuadratica ax^2 +b^x + c = 0.",
-        "unicode": "Cambia el formato de un texto."
-    }
-}
