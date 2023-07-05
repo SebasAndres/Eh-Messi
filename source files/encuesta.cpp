@@ -1,5 +1,5 @@
 #pragma once
-#include <../header files/encuesta.h>
+#include <../Header Files/encuesta.h>
 
 void tipsEncuesta::tips() {
         

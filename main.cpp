@@ -8,8 +8,8 @@
 #include <unistd.h>
 #include <algorithm>
 
-#include <../scripts/opendir.h>
-#include <../scripts/encuesta.h>
+#include <Header Files/opendir.h>
+#include <Header Files/encuesta.h>
 
 using namespace std;
 
